@@ -1,0 +1,35 @@
+--- Testando Fila Circular ---
+
+A fila está vazia? Sim
+
+Inserindo os valores 10, 20, 30...
+Elemento no início da fila: 10
+A fila está vazia? Não
+
+Elemento removido: 10
+Novo elemento no início da fila: 20
+
+Inserindo mais elementos para encher a fila...
+A fila está cheia? Sim
+
+Tentando inserir o valor 120 em uma fila cheia...
+Erro: A fila está cheia!
+Inserção falhou como esperado.
+
+Esvaziando a fila...
+Removido: 20
+Removido: 30
+Removido: 40
+Removido: 50
+Removido: 60
+Removido: 70
+Removido: 80
+Removido: 90
+Removido: 100
+Removido: 110
+Erro: A fila está vazia!
+A fila está vazia? Sim
+
+Tentando remover de uma fila vazia...
+Erro: A fila está vazia!
+Remoção falhou como esperado.
